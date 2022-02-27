@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "herterm",
+        "MONGO_PASSWORD": "iB72zO87UinXZYcs",
+        "DATABASE_NAME": "101272358-comp3133-Assignment1"
+    }
+}
